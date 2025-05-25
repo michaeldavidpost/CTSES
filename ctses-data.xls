@@ -1,0 +1,45 @@
+Item,Activity,Confidence_Ratings,Frequency_Ratings
+1,Specify the learning goals that I expect my students to attain?,[4],[4]
+2,Actively engage my students in the learning activities that I include in my teaching plan/syllabus?,[4],[4]
+3,Create a positive classroom climate for learning?,[4],[5]
+4,Reflect on my teaching practice with the aim of making appropriate improvements?,[5],[6]
+5,Develop different assessment methods depending on the learning goals I want to check in my students?,[4],[4]
+6,Evaluate the effectiveness of my own teaching in light of my students' feedback to me?,[5],"[4, 5]"
+7,Promote student participation in my classes?,[5],"[4, 5]"
+8,Use different evaluation methods?,"[4, 5]",[4]
+9,Prepare the teaching materials I will use?,[5],[5]
+10,Ensure that my students resolve the difficulties they encounter while learning?,[5],"[4, 5]"
+11,Promote a positive attitude towards learning in my students?,[5],[5]
+12,Adapt my teaching practices in response to my students' evaluations of my teaching?,[5],[6]
+13,Evaluate accurately my students' academic capabilities?,[4],[3]
+14,Decide on the most appropriate evaluation method for a particular course?,[3],[3]
+15,Ensure that my students consider themselves capable of learning the material in my class?,[4],[3]
+16,Employ systematic methods that permit me to assess my own teaching?,[3],[2]
+17,Give my students feedback about their progress?,[4],[4]
+18,Clearly identify my course objectives?,"[4, 5]",[5]
+19,Maintain high academic expectations?,[4],[5]
+20,Use information derived from my own self-reflection to improve my teaching?,[5],[6]
+21,Adequately grade my students' exams and assignments?,[5],[5]
+22,"Adapt to the needs of my students (motivation, interest, prior knowledge, etc.) when planning my courses?",[3],[3]
+23,"Think of my students as active learners, which is to say knowledge constructors rather than information receivers?",[4],[3]
+24,Provide support and encouragement to students who are having difficulty learning?,[4],"[3, 4]"
+25,Update my knowledge of the subject I am teaching?,[5],[6]
+26,Provide my students with detailed feedback about their academic progress?,[4],"[3, 4]"
+27,Modify and adapt my syllabus if my students' needs require it?,[3],"[3, 4]"
+28,Permit my students to prepare and/or develop some of the course units?,[2],[1]
+29,Calmly handle any problems that may arise in the classroom?,[4],"[4, 5]"
+30,"Develop my teaching skills using various means (attending conferences, reading about pedagogy, talking to other professionals…)?",[5],[5]
+31,Use formative assessment to gather information about my students' academic progress?,"[3, 4]","[3, 4]"
+32,Encourage my students to ask questions during class?,[5],[6]
+33,Make students aware that I have a personal investment in them and in their learning?,[5],[5]
+34,Evaluate the degree to which my course objectives have been met?,[5],[3]
+35,Design the structure and content of each class?,"[3, 4]",[1]
+36,Let students take initiative for their own learning?,[3],[1]
+37,Show my students respect through my actions?,[6],[6]
+38,Be flexible in my teaching even if I must alter my plans?,[4],"[3, 4]"
+39,Make students aware of the relevance of what they are learning?,[4],[4]
+40,Master the material that I cover in class?,"[5, 6]","[4, 5]"
+41,Promote my students' confidence in themselves?,[4],[3]
+42,Make my students feel that their academic success is due to their own efforts?,[3],"[2, 3]"
+43,Spend the time necessary to plan my classes?,[4],[4]
+44,Select the appropriate materials for each class?,"[3, 4]","[2, 3]"

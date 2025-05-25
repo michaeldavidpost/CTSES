@@ -1,0 +1,89 @@
+Item,Prompt,Rating_12point,Type,Original_Ratings
+1a,Confidence: Specify the learning goals that I expect my students to attain?,7.0,Confidence,[4]
+2a,Confidence: Actively engage my students in the learning activities that I include in my teaching plan/syllabus?,7.0,Confidence,[4]
+3a,Confidence: Create a positive classroom climate for learning?,7.0,Confidence,[4]
+4a,Confidence: Reflect on my teaching practice with the aim of making appropriate improvements?,9.0,Confidence,[5]
+5a,Confidence: Develop different assessment methods depending on the learning goals I want to check in my students?,7.0,Confidence,[4]
+6a,Confidence: Evaluate the effectiveness of my own teaching in light of my students' feedback to me?,9.0,Confidence,[5]
+7a,Confidence: Promote student participation in my classes?,9.0,Confidence,[5]
+8a,Confidence: Use different evaluation methods?,8.0,Confidence,"[4, 5]"
+9a,Confidence: Prepare the teaching materials I will use?,9.0,Confidence,[5]
+10a,Confidence: Ensure that my students resolve the difficulties they encounter while learning?,9.0,Confidence,[5]
+11a,Confidence: Promote a positive attitude towards learning in my students?,9.0,Confidence,[5]
+12a,Confidence: Adapt my teaching practices in response to my students' evaluations of my teaching?,9.0,Confidence,[5]
+13a,Confidence: Evaluate accurately my students' academic capabilities?,7.0,Confidence,[4]
+14a,Confidence: Decide on the most appropriate evaluation method for a particular course?,5.0,Confidence,[3]
+15a,Confidence: Ensure that my students consider themselves capable of learning the material in my class?,7.0,Confidence,[4]
+16a,Confidence: Employ systematic methods that permit me to assess my own teaching?,5.0,Confidence,[3]
+17a,Confidence: Give my students feedback about their progress?,7.0,Confidence,[4]
+18a,Confidence: Clearly identify my course objectives?,8.0,Confidence,"[4, 5]"
+19a,Confidence: Maintain high academic expectations?,7.0,Confidence,[4]
+20a,Confidence: Use information derived from my own self-reflection to improve my teaching?,9.0,Confidence,[5]
+21a,Confidence: Adequately grade my students' exams and assignments?,9.0,Confidence,[5]
+22a,"Confidence: Adapt to the needs of my students (motivation, interest, prior knowledge, etc.) when planning my courses?",5.0,Confidence,[3]
+23a,"Confidence: Think of my students as active learners, which is to say knowledge constructors rather than information receivers?",7.0,Confidence,[4]
+24a,Confidence: Provide support and encouragement to students who are having difficulty learning?,7.0,Confidence,[4]
+25a,Confidence: Update my knowledge of the subject I am teaching?,9.0,Confidence,[5]
+26a,Confidence: Provide my students with detailed feedback about their academic progress?,7.0,Confidence,[4]
+27a,Confidence: Modify and adapt my syllabus if my students' needs require it?,5.0,Confidence,[3]
+28a,Confidence: Permit my students to prepare and/or develop some of the course units?,3.0,Confidence,[2]
+29a,Confidence: Calmly handle any problems that may arise in the classroom?,7.0,Confidence,[4]
+30a,"Confidence: Develop my teaching skills using various means (attending conferences, reading about pedagogy, talking to other professionals…)?",9.0,Confidence,[5]
+31a,Confidence: Use formative assessment to gather information about my students' academic progress?,6.0,Confidence,"[3, 4]"
+32a,Confidence: Encourage my students to ask questions during class?,9.0,Confidence,[5]
+33a,Confidence: Make students aware that I have a personal investment in them and in their learning?,9.0,Confidence,[5]
+34a,Confidence: Evaluate the degree to which my course objectives have been met?,9.0,Confidence,[5]
+35a,Confidence: Design the structure and content of each class?,6.0,Confidence,"[3, 4]"
+36a,Confidence: Let students take initiative for their own learning?,5.0,Confidence,[3]
+37a,Confidence: Show my students respect through my actions?,11.0,Confidence,[6]
+38a,Confidence: Be flexible in my teaching even if I must alter my plans?,7.0,Confidence,[4]
+39a,Confidence: Make students aware of the relevance of what they are learning?,7.0,Confidence,[4]
+40a,Confidence: Master the material that I cover in class?,10.0,Confidence,"[5, 6]"
+41a,Confidence: Promote my students' confidence in themselves?,7.0,Confidence,[4]
+42a,Confidence: Make my students feel that their academic success is due to their own efforts?,5.0,Confidence,[3]
+43a,Confidence: Spend the time necessary to plan my classes?,7.0,Confidence,[4]
+44a,Confidence: Select the appropriate materials for each class?,6.0,Confidence,"[3, 4]"
+1b,Frequency: Specify the learning goals that I expect my students to attain?,7.0,Frequency,[4]
+2b,Frequency: Actively engage my students in the learning activities that I include in my teaching plan/syllabus?,7.0,Frequency,[4]
+3b,Frequency: Create a positive classroom climate for learning?,9.0,Frequency,[5]
+4b,Frequency: Reflect on my teaching practice with the aim of making appropriate improvements?,11.0,Frequency,[6]
+5b,Frequency: Develop different assessment methods depending on the learning goals I want to check in my students?,7.0,Frequency,[4]
+6b,Frequency: Evaluate the effectiveness of my own teaching in light of my students' feedback to me?,8.0,Frequency,"[4, 5]"
+7b,Frequency: Promote student participation in my classes?,8.0,Frequency,"[4, 5]"
+8b,Frequency: Use different evaluation methods?,7.0,Frequency,[4]
+9b,Frequency: Prepare the teaching materials I will use?,9.0,Frequency,[5]
+10b,Frequency: Ensure that my students resolve the difficulties they encounter while learning?,8.0,Frequency,"[4, 5]"
+11b,Frequency: Promote a positive attitude towards learning in my students?,9.0,Frequency,[5]
+12b,Frequency: Adapt my teaching practices in response to my students' evaluations of my teaching?,11.0,Frequency,[6]
+13b,Frequency: Evaluate accurately my students' academic capabilities?,5.0,Frequency,[3]
+14b,Frequency: Decide on the most appropriate evaluation method for a particular course?,5.0,Frequency,[3]
+15b,Frequency: Ensure that my students consider themselves capable of learning the material in my class?,5.0,Frequency,[3]
+16b,Frequency: Employ systematic methods that permit me to assess my own teaching?,3.0,Frequency,[2]
+17b,Frequency: Give my students feedback about their progress?,7.0,Frequency,[4]
+18b,Frequency: Clearly identify my course objectives?,9.0,Frequency,[5]
+19b,Frequency: Maintain high academic expectations?,9.0,Frequency,[5]
+20b,Frequency: Use information derived from my own self-reflection to improve my teaching?,11.0,Frequency,[6]
+21b,Frequency: Adequately grade my students' exams and assignments?,9.0,Frequency,[5]
+22b,"Frequency: Adapt to the needs of my students (motivation, interest, prior knowledge, etc.) when planning my courses?",5.0,Frequency,[3]
+23b,"Frequency: Think of my students as active learners, which is to say knowledge constructors rather than information receivers?",5.0,Frequency,[3]
+24b,Frequency: Provide support and encouragement to students who are having difficulty learning?,6.0,Frequency,"[3, 4]"
+25b,Frequency: Update my knowledge of the subject I am teaching?,11.0,Frequency,[6]
+26b,Frequency: Provide my students with detailed feedback about their academic progress?,6.0,Frequency,"[3, 4]"
+27b,Frequency: Modify and adapt my syllabus if my students' needs require it?,6.0,Frequency,"[3, 4]"
+28b,Frequency: Permit my students to prepare and/or develop some of the course units?,1.0,Frequency,[1]
+29b,Frequency: Calmly handle any problems that may arise in the classroom?,8.0,Frequency,"[4, 5]"
+30b,"Frequency: Develop my teaching skills using various means (attending conferences, reading about pedagogy, talking to other professionals…)?",9.0,Frequency,[5]
+31b,Frequency: Use formative assessment to gather information about my students' academic progress?,6.0,Frequency,"[3, 4]"
+32b,Frequency: Encourage my students to ask questions during class?,11.0,Frequency,[6]
+33b,Frequency: Make students aware that I have a personal investment in them and in their learning?,9.0,Frequency,[5]
+34b,Frequency: Evaluate the degree to which my course objectives have been met?,5.0,Frequency,[3]
+35b,Frequency: Design the structure and content of each class?,1.0,Frequency,[1]
+36b,Frequency: Let students take initiative for their own learning?,1.0,Frequency,[1]
+37b,Frequency: Show my students respect through my actions?,11.0,Frequency,[6]
+38b,Frequency: Be flexible in my teaching even if I must alter my plans?,6.0,Frequency,"[3, 4]"
+39b,Frequency: Make students aware of the relevance of what they are learning?,7.0,Frequency,[4]
+40b,Frequency: Master the material that I cover in class?,8.0,Frequency,"[4, 5]"
+41b,Frequency: Promote my students' confidence in themselves?,5.0,Frequency,[3]
+42b,Frequency: Make my students feel that their academic success is due to their own efforts?,4.0,Frequency,"[2, 3]"
+43b,Frequency: Spend the time necessary to plan my classes?,7.0,Frequency,[4]
+44b,Frequency: Select the appropriate materials for each class?,4.0,Frequency,"[2, 3]"
